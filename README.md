@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm Whuatorhe Henry Tejiri</h1>
-<h3 align="center">A calculative DevOps Engineer</h3>
+<h1 align="center">Hi 👋, Hi, I'm Tejiri — DevOps, Cloud & SRE Engineer</h1>
+<h3 align="center">I design scalable cloud infrastructure, automate deployments, and build resilient systems using Kubernetes, Terraform, and modern CI/CD practices. </h3>
 
-- 🔭 I’m currently working on **DevOps in Data Engineering for Healthcare Analytics**
+🔭 What i am currently working on
+ - Designing production-grade cloud and Kubernetes architectures
+ - Improving CI/CD workflows and GitOps automation
+ - Enhancing observability using Prometheus, Grafana, and OpenTelemetry
 
-- 🌱 I’m currently learning **Deeper container orchestration using Kubernetes and expanding my expertise in infrastructure automation with Terraform**
+👯 I Collaborate on
+ - End-to-end microservices deployment
+ - Cloud infrastructure automation (AWS & Azure)
+ - Kubernetes platform engineering
+ - CI/CD design and optimization (GitHub Actions, ArgoCD, Azure DevOps)
+   
+💬 Ask Me About 
+  Docker · Kubernetes · Terraform · GitOps · ArgoCD · GitHub Actions · Cloud Architecture · Monitoring & SRE Practices
 
-- 👯 I’m looking to collaborate on **End to End Microservices deployment**
+📫 Reach me at
+  Email: whuatorhetejirih@gmail.com 
+  LinkedIn: linkedin.com/in/tejiri-whuatorhe
 
-- 💬 Ask me about **Docker, Argocd, GitActions(CI/CD)**
-
-- 📫 How to reach me **Henryfly09winner@gmail.com**
-
-- ⚡ Fun fact **I deploy faster than I cook noodles 🍜**
+⚡ Fun fact If it can be automated, I’ve probably automated it already. 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
